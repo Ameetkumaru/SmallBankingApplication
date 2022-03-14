@@ -1,0 +1,13 @@
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.exe
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.deps.json
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.runtimeconfig.json
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.runtimeconfig.dev.json
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.dll
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\bin\Debug\netcoreapp3.1\SimpleBank.pdb
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.csprojAssemblyReference.cache
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.AssemblyInfoInputs.cache
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.AssemblyInfo.cs
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.csproj.CoreCompileInputs.cache
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.dll
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.pdb
+C:\Users\ameetupadhyay\source\repos\SimpleBank\SimpleBank\obj\Debug\netcoreapp3.1\SimpleBank.genruntimeconfig.cache
